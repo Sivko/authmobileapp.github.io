@@ -131,7 +131,7 @@ function App() {
   }, [userid])
 
   return (
-    <div className="App max-w-[300px]">
+    <div className="App w-full">
       <header className="App-header">
         <div className="flex items-center">
           <div className="h-[1px] w-full bg-[#ddd]" />
