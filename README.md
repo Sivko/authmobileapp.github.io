@@ -1,3 +1,7 @@
+# Приложение создает и читает нужные поля
+
+Задается поле tokenMobileApp и passwordMobileApp для авторизации в самом приложении, по умолчанию указан токен тестовой базы, если он есть в get параметре, то используется из параметра
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
